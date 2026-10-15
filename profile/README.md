@@ -1,6 +1,6 @@
 # 🛡️ Welcome to Distechsol
 
-## ⚡ Secure · Automate · Innovate
+### ⚡ Secure · Automate · Innovate
 
 At Distechsol, we're your partner in Security, Automation, and IT Infrastructure.
 We're an official distributor of global brands and a custom integrator, serving clients across Azerbaijan and the UAE since 2020.
